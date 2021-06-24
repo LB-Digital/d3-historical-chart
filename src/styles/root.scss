@@ -1,0 +1,45 @@
+
+:root {
+  font-size: 16px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+p {
+  font-size: 1rem;
+}
+
+small {
+  font-size: 0.8rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+}
+
+
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  background: #00151c;
+  color: #fff;
+}
